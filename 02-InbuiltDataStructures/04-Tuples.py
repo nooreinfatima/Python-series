@@ -35,6 +35,9 @@ print(numbers*3) # (1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6)
 lst=[1,2,3,4,5]
 print(lst) # [1, 2, 3, 4, 5]
 
+lst3="Jyoshita"
+print(lst3)
+
 lst[1]="Noorein"
 print(lst) # [1, 'Noorein', 3, 4, 5]
 
